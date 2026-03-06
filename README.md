@@ -22,13 +22,12 @@ The project includes a simple web-based interface where users can input document
 
 ## Project Structure
 Document-Authenticity-Detector/
-│
-├── app.py
-├── index.html
-├── result.html
-├── prepared_dataset.py
-├── train_text_classifier.py
-└── README.md
+ app.py
+ index.html
+ result.html
+ prepared_dataset.py
+ train_text_classifier.py
+README.md
 
 ## Installation
 
@@ -71,5 +70,4 @@ http://127.0.0.1:5000/
 - Support document uploads (PDF, DOCX)
 - Improve the user interface
 
-## Author
-Suganya S
+
